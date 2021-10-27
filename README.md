@@ -6,4 +6,4 @@
 Hey, i'm a young student in web dev at @EdenSchoolFrance.
 
 Knowledges :
-  - VueJS (with NuxtJS)
+  - <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"> VueJS (with NuxtJS)
