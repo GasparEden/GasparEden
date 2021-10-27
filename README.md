@@ -4,3 +4,6 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eggsy&theme=dark&hide_border=true&layout=compact">
 
 Hey, i'm a young student in web dev at @EdenSchoolFrance.
+
+Knowledges :
+  - VueJS (with NuxtJS)
