@@ -6,4 +6,7 @@
 Hey, i'm a young student in web dev at @EdenSchoolFrance.
 
 Knowledges :
-  - <img height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"> <a href="https://vuejs.org/" target="_blank">VueJS</a> (with <a href="https://nuxtjs.org/" target="_blank">NuxtJS</a>)
+  - Languages
+    - JavaScript/Type
+  - Frameworks
+    - <img height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"> <a href="https://vuejs.org/" target="_blank">VueJS</a> (with <a href="https://nuxtjs.org/" target="_blank">NuxtJS</a>)
