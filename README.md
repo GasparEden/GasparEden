@@ -7,6 +7,9 @@ Hey, i'm a young student in web dev at @EdenSchoolFrance.
 
 Knowledges :
   - Languages
-    - JavaScript/Type
+    - JavaScript/Typescript
+    - PHP
+    - C#
   - Frameworks
     - <img height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"> <a href="https://vuejs.org/" target="_blank">VueJS</a> (with <a href="https://nuxtjs.org/" target="_blank">NuxtJS</a>)
+    - <img height="15" src="http://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png"> <a href="https://reactjs.org/" target="_blank">ReactJS</a> (with <a href="https://nextjs.org/" target="_blank">NextJS</a>)
